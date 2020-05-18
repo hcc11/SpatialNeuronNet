@@ -1,5 +1,5 @@
 This folder contains Matlab (R2015a) and C codes for the manuscript: 
-Huang C, Ruff DA, Pyle R, Rosenbaum R, Cohen MR and Doiron B (2018) “Circuit models of low dimensional shared variability in cortical networks”, Neuron (in press). 
+Huang C, Ruff DA, Pyle R, Rosenbaum R, Cohen MR and Doiron B (2019) “Circuit models of low dimensional shared variability in cortical networks”, Neuron 101, 337-348, doi: https://doi.org/10.1016/j.neuron.2018.11.034. 
 
 ++++++++++++++++++++++++++++++++
 
